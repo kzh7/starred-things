@@ -1,1 +1,2 @@
-* Blue Ocean Strategy
+- [ ] Blue Ocean Strategy
+- [ ] Blue Ocean Strategy
