@@ -1,2 +1,2 @@
-- [ ] Blue Ocean Strategy
-- [ ] Blue Ocean Strategy
+1. Blue Ocean Strategy
+
